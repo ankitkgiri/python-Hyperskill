@@ -1,2 +1,2 @@
-# python-Hyperskill
-Python Hyperskill Tuts
+# python
+Python practise codes
